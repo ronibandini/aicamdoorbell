@@ -1,3 +1,6 @@
+![AiBell1](https://github.com/user-attachments/assets/445324de-7771-444b-89d2-2f91f268a400)
+
+
 # AIBell
 AI doorbell with DFRobot ESP32S3 AI Camera Module, Edge Impulse and chatGPT
 
